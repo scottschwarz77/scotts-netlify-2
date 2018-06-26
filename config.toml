@@ -1,0 +1,30 @@
+# Site settings
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "hugo-simpledoc-theme"
+theme = "hugo-simpledoc-theme"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+
+# Site parameters
+[params]
+
+    # Meta
+    description = ""
+    author = ""
+    keywords = "hugo, documentation, hugo theme, hugo simple documentation theme"
+    
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "Answers to questions"
+    headerDescription = ""
+    
+    # Back-to-top button name
+    bttButton = ""
