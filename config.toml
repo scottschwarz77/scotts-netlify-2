@@ -23,7 +23,7 @@ theme = "hugo-simpledoc-theme"
     # Header
     # If not set, site title and meta description will be shown.
     # You may use markdown here
-    headerTitle = "Answers to questions"
+    headerTitle = "Support"
     headerDescription = ""
     
     # Back-to-top button name
